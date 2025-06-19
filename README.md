@@ -5,27 +5,27 @@ A beautiful and modern Flutter application that displays information about count
 ## 📱 Screenshots
 
 ### Home Screen
-[Add screenshot of the home screen showing the country list and search bar]
+![Home Screen](./1.jpg)
 - Clean and modern UI design
 - Search functionality
 - List of countries with flags
 - Favorite toggle functionality
 
 ### Country Details
-[Add screenshot of the country details screen]
+![Country Details](./2.jpg)
 - Detailed country information
 - Population statistics
 - Geographic data
 - Timezone information
 
 ### Search Feature
-[Add screenshot showing the search functionality in action]
+![Search Feature](./3.jpg)
 - Real-time search filtering
 - Search by country name or capital
 - Responsive and smooth updates
 
 ### Favorites Page
-[Add screenshot of the favorites page]
+![Favorites Page](./4.jpg)
 - Dedicated favorites section
 - Easy management of favorite countries
 - Persistent storage of favorites
